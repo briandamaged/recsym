@@ -1,8 +1,8 @@
 
 Gem::Specification.new do |s|
   s.name        = 'recsym'
-  s.version     = '1.0.0.alpha.2'
-  s.date        = '2014-12-24'
+  s.version     = '1.0.0'
+  s.date        = '2015-04-03'
   s.summary     = "Recursively symbolize Hashes"
   s.description = "Recursively symbolize Hashes"
   s.homepage    = "https://github.com/briandamaged/recsym"
